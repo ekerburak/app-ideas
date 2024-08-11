@@ -1,4 +1,5 @@
-# Notes App
+# Notes App 
+### 🚧 WORK IN PROGRESS 🚧
 
 **Tier:** 1-Beginner
 
@@ -15,6 +16,10 @@ Create and store your notes for later purpose!
 
 -   [ ] User can create and edit a note in Markdown format. On save it will convert Markdown to HTML
 -   [ ] User can see the date when he created the note
+
+## Personal bonuses
+-   [ ] Visibility of a note can be set. Public notes will be visible on a particular route.
+
 
 ## Useful links and resources
 
